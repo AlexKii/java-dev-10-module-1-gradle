@@ -7,3 +7,6 @@ Hello!
 
 Peace,
 Alex. 
+
+upd
+прочитав ДЗ і додав wrapper :-)
